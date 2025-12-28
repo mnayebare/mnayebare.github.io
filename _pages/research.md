@@ -99,56 +99,53 @@ function toggleAbstract(id) {
     }
 }
 </script>
+# Selected Publications
 
 
-### ["Peer Effects and Ethnicity in Uganda: Impacts of Coethnic and High-Ability Peers on University Performance"](/files/JMP_web_version.pdf)
+## Interim report for Ubuntu-AI: A bottom-up approach to more democratic and equitable training and outcomes for machine learning.
+<a target="_blank" href="https://www.researchgate.net/publication/ 374870830_Interim_Report_for_Ubuntu-AI_A_Bottom-up_Approach_to_More_Democratic_and_Equitable_Training_and_Outcomes_for_Machine_Learning"> Nayebare, M., Eglash, R., Kimanuka, U., Baguma, R., Mounsey, J., & Ciira, W. M. (2023). Interim report for Ubuntu-AI: A bottom-up approach to more democratic and equitable training and outcomes for machine learning. Conference: Democratic Inputs for AI.</a>
 
 <a href="javascript:void(0);" class="abstract-toggle" onclick="toggleAbstract('abstract1')">Abstract</a>
 
 <div id="abstract1" class="abstract-content">
-Empirical research has documented the negative impact ethnic diversity has on several political and economic outcomes in Sub-Saharan Africa, including economic growth, political engagement, conflict, and contributions to public goods. However, we know relatively little about educational peer effects in such settings, which are generally characterized by high ethnic diversity and cross-ethnic mixing. This paper studies the effect of coethnic and high-ability peers in student groups on academic outcomes at a large public university in Uganda, a country with pronounced ethnic heterogeneity and segregation. I link data on student-level university admissions with subsequent grades. Upon admission, dorm assignments are random conditional on gender, providing exogenous variation in peer group formation. On average, high-ability peers (irrespective of ethnicity) and coethnic peers (irrespective of ability) positively affect a student's performance. Whereas the coethnic peer effect disappears by the year of graduation, the high-ability peer effect persists and even increases in magnitude over time. The effect of high-ability coethnic peers on performance is statistically indistinguishable from that of high-ability noncoethnic peers. The results of heterogeneous effects analysis suggest that the entire coethnic peer effect is driven by students with little exposure to other ethnicities prior to enrolling at the university. The pattern of results is consistent with both psychological and peer-to-peer learning explanations that reflect the specific context of this study.
+Artificial Intelligence (AI) can be a threat to creative arts and design, taking data and images without permission or compensation. But with AI becoming a global portal for human knowledge access, anyone resisting inclusion in its data inputs will become invisible to its outputs. This is the AI double bind, in which the threat of exclusion forces us to give up any claims of ownership to our creative endeavors. To address such problems, this project develops an experimental platform designed to return value to those who create it, using a case study on African arts and design. If successful, it will allow African creatives to work with AI instead of against it, creating new opportunities for funding, gaining wider dissemination of their work, and creating a database for machine learning that results in more inclusive knowledge of African arts and design for AI outputs.
 </div>
 
 ---
 
-### ["The STEM Major Gender Gap: Evidence from Coordinated College Application Platforms Across Five Continents"](/files/stem_gap_multicountry.pdf)
-
-<div class="coauthors">(with G. Artemov, A. Barrios-Fernández, A. Bizopoulou, M. Kaila, J. Liu, R. Megalokonomou, J. Montalbán, C. Neilson, S. Otero, J. Sun, and X. Ye)</div>
+## Ubuntu AI: Machine Learning for Regenerative Design Ecologies
+Eglash, Ron, and others, 'Ubuntu AI: Machine Learning for Regenerative Design Ecologies' (21 May 2025), in Philipp Hacker (ed.), Oxford Intersections: AI in Society (Oxford, online edn, Oxford Academic, 20 Mar. 2025 - ), https://doi.org/10.1093/9780198945215.003.0138
 
 <a href="javascript:void(0);" class="abstract-toggle" onclick="toggleAbstract('abstract2')">Abstract</a>
 
 <div id="abstract2" class="abstract-content">
-Women account for only 35% of global STEM graduates, a share unchanged for a decade. We use administrative microdata from centralized university admissions in ten systems to deliver the first crossnational decomposition of the STEM gender gap into a pipeline gap (academic preparedness) and a choice gap (first-choice field conditional on eligibility). In deferred-acceptance platforms where eligibility is score-based, we isolate preferences from access. The pipeline gap varies widely, from -19 to +31 percentage points across education systems. By contrast, the choice gap is remarkably stable: high-scoring women are 25 percentage points less likely than men to rank STEM first.
+Current AI technologies amplify exploitation by training on human-created images and text taken from the internet, without any return to its creators. Companies can then use AI to displace paid employees and compete with independent creators, amplifying wealth inequality. Black populations are especially vulnerable to this appropriation. This article describes how alternative AI services and platforms might reverse its potentially debilitating impact on Black artisans by combining the capabilities from two projects. Ubuntu-AI, funded by the OpenAI Foundation, is a platform that allows African artists and designers to license images for use in AI. Artisanal Futures, funded by the National Science Foundation, examines how Black artisans in Detroit can use digital fabrication and machine learning for economic empowerment. The project this article describes creates a collaboration between those two platforms, and examines the possibilities for redesigning AI and its applications to circulate value in community-based production, rather than allow its extraction by corporations or the state. Because production within a community, no matter how regenerative, is also dependent on external exchanges, we stress the importance of creating layered ecosystems of exchange which minimize value alienation, while expanding regenerative practices. We envision this expansion as a democratization of AI at multiple scales, from community-based ownership of creative production, to global principles for maintaining human rights and egalitarian futures.
 </div>
 
----
 
-### Selected Works in Progress
+## AI governance through fractal scaling: Integrating universal human rights with emergent self-governance
 
-### "Is Affirmative Action the Answer to Gender Gap in STEM Majors?" 
-
-<div class="coauthors">(with Saloni Chopra)</div>
+Eglash, R., Nayebare, M., Robinson, K. et al. AI governance through fractal scaling: integrating universal human rights with emergent self-governance for democratized technosocial systems. AI & Soc 40, 2663–2676 (2025). https://doi.org/10.1007/s00146-024-02029-4
 
 <a href="javascript:void(0);" class="abstract-toggle" onclick="toggleAbstract('abstract3')">Abstract</a>
 
 <div id="abstract3" class="abstract-content">
-This paper analyze a gender-based affirmative action policy implemented in 2020 for STEM programs at Uganda’s largest public university. Pushing more women in STEM majors by relaxing the admission criterion may lead to a potential mismatch. Improved gender balance, on the other hand, can generate positive peer effects for the entire cohort, especially women. Linking different administrative datasets on student’s applications, admissions and college academic performance, we empirically assess the effects of the policy induced changes in gender composition, on students’ higher education outcomes. We first establish that the policy successfully increased women’s access to STEM majors, resulting in a 9-percentage-point rise in female enrollment in traditionally male-dominated fields. We document that women (men) entering treated majors after the policy have, on average, lower (higher) high school test scores than their counterparts in untreated majors. Despite this, the policy led to improved college GPA and reduced the likelihood of failing courses in the first year for both men and women in the treated majors. Even among the top high school applicants whose admission status were not affected by the policy, we find that both men and women in treated majors experienced significant GPA improvements. Women’s GPA rose by 8%, compared to a 4% increase for men. Our results suggest that increased gender diversity, brought by the policy, had positive spillover effects beyond its direct impact on enrollment.
+One of the challenges facing AI governance is the need for multiple scales. Universal human rights require a global scale. If someone asks AI if education is harmful to women, the answer should be “no” regardless of their location. But economic democratization requires local control: if AI’s power over an economy is dictated by corporate giants or authoritarian states, it may degrade democracy’s social and environmental foundations. AI democratization, in other words, needs to operate across multiple scales. Nature allows the multiscale flourishing of biological systems through fractal distributions. In this paper, we show that key elements of the fractal scaling found in nature can be applied to the AI democratization process. We begin by looking at fractal trees in nature and applying similar analytics to tree representations of online conversations. We first examine this application in the context of OpenAI’s “Democratic Inputs” projects for globally acceptable policies. We then look at the advantages of independent AI ownership at local micro-levels, reporting on initial outcomes for experiments with AI and related technologies in community-based systems. Finally, we offer a synthesis of the two, micro and macro, in a multifractal model. Just as nature allows multifractal systems to maximize biodiverse flourishing, we propose a combination of community-owned AI at the micro-level, and globally democratized AI policies at the macro-level, for a more egalitarian and sustainable future.
 </div>
 
 
-### "Beliefs and the Demand for Employee Training: A Field Experiment with Small Firms in Uganda"
-
-<div class="coauthors">(with Andy Brownback, Sarojini Hirshleifer, and Arman Rezaee)</div>
+## Computing for Community-Based Economies: A Sociotechnical Ecosystem for Democratic, Egalitarian and Sustainable Futures
+<a href="https://arxiv.org/abs/2504.06114" target="_blank"> Robinson, K. P., Eglash, R., Robert, L., Bennett, A., Guzdial, M., & Nayebare, M. (2025). Computing for Community-Based Economies: A Sociotechnical Ecosystem for Democratic, Egalitarian and Sustainable Futures. arXiv preprint arXiv:2504.06114. </a>
 
 <a href="javascript:void(0);" class="abstract-toggle" onclick="toggleAbstract('abstract3')">Abstract</a>
 
 <div id="abstract3" class="abstract-content">
-This study examines how employers select employees for training and employee demand for training. We incentive-compatibly elicit employers' beliefs about which of their employees it would be socially optimal to train, as well as employers' preferences over which of their employees they choose to train. We will then investigate if employers' selection of workers is individually rational or driven by behavioral biases. Finally, we will measure employees' self-selection into training and its alignment with employers' selections. To ensure incentive compatibility of employer and employee choices, we provide employees from a sample of metalworking SMEs in Kampala, Uganda, with free, high-quality skills training. In addition, we conduct practical skills tests to measure employee metal working skills before and after training. <a href="https://www.socialscienceregistry.org/trials/11788">AEA RCT registration</a> (Baseline complete)
+Automation and industrial mass production, particularly in sectors with low wages, have harmful consequences that contribute to widening wealth disparities, excessive pollution, and worsened working conditions. Coupled with a mass consumption society, there is a risk of detrimental social outcomes and threats to democracy, such as misinformation and political polarization. But AI, robotics and other emerging technologies could also provide a transition to community-based economies, in which more democratic, egalitarian, and sustainable value circulations can be established. Based on both a review of case studies, and our own experiments in Detroit, we derive three core principles for the use of computing in community-based economies. The prefigurative principle requires that the development process itself incorporates equity goals, rather than viewing equity as something to be achieved in the future. The generative principle requires the prevention of value extraction, and its replacement by circulations in which value is returned back to the aspects of labor, nature, and society by which it is generated. And third, the solidarity principle requires that deployments at all scales and across all domains support both individual freedoms and opportunities for mutual aid. Thus we propose the use of computational technologies to develop a specifically generative form of community-based economy: one that is egalitarian regarding race, class and gender; sustainable both environmentally and socially; and democratic in the deep sense of putting people in control of their own lives and livelihoods.
 </div>
 
-### "Thou Must be a Doctor or an Engineer: Unintended Consequences of a Compulsory Science Policy"
+## The Impact of over the Top Service Providers in the Rwandan Telecommunications Market: An Analysis of Business Models.
 
-<div class="coauthors">(with Tess Lallemant and Henry Joe Opio)</div>
+<a href="https://www.researchgate.net/publication/327291185_The_Impact_of_over_the_Top_Service_Providers_in_the_Rwandan_Telecommunications_Market_An_Analysis_of_Business_Models_Second_International_Conference_InterSol_2018_Kigali_Rwanda_March_24-25_2018_Procee" target="_blank"> Kwizera, E., Mico, D., Nayebare, M., Garba, A. A., Saint, M., & Deen, L. G. (2018, March). The Impact of over the Top Service Providers in the Rwandan Telecommunications Market: An Analysis of Business Models. In International Conference on Innovations and Interdisciplinary Solutions for Underserved Areas (pp. 62-71). Cham: Springer International Publishing. </a>
 
 <a href="javascript:void(0);" class="abstract-toggle" onclick="toggleAbstract('abstract4')">Abstract</a>
 
@@ -156,21 +153,9 @@ This study examines how employers select employees for training and employee dem
 We study the effect of Uganda's policy that made chemistry and physics compulsory in addition to biology and mathematics, which were already mandatory for all students in junior high school. We examine the impact of this policy on performance in national exams, the number of girls entering STEM fields at advanced levels, and the persistence of both boys and girls in STEM at university. Using test scores in national exams, university applications, and school-level registrations, our approach exploits pre-policy variation in the school-level share of candidates sitting for national chemistry and physics exams.
 </div>
 
-<!--
-### Selected Works in progress
-"Univeral Secondary Education"
--->
 
 ---
 
-### Pre-PhD Research
+## Selected articles
+<a href="https://www.researchgate.net/publication/337503231_Artificial_intelligence_policies_in_Africa_over_the_next_five_years" target="_blank"> Nayebare, M. (2019). Artificial intelligence policies in Africa over the next five years. XRDS: Crossroads, The ACM Magazine for Students, 26(2), 50–54.Kwizera, E., Mico, D., Nayebare</a>
 
-**"The contribution of millennium development goals towards improvement in major development indicators, 1990–2015"**
-
-<div class="coauthors">(with Rati Ram)</div>
-
-*Applied Economics*, 2018
-
-<div class="paper-links">
-<a href="https://www.tandfonline.com/doi/abs/10.1080/00036846.2018.1494808">Paper</a>
-</div>
