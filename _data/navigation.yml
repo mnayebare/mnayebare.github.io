@@ -1,0 +1,22 @@
+# main links links
+main:
+  - title: "Research"
+    url: /research/
+
+  # - title: "Test html"
+  #   url: /html/    
+
+  - title: "Teaching"
+    url: /teaching/    
+    
+  - title: "Service-Mentorship"
+    url: /service/
+        
+  # - title: "Blog Posts"
+  #   url: /year-archive/
+    
+  - title: "CV"
+    url: /cv/
+    
+  # - title: "Guide"
+  #   url: /markdown/
