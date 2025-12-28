@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Isaac Ahimbisibwe"
+title                    : "Micheal Nayebare"
 title_separator          : "-"
-name                     : &name "Isaac Ahimbisibwe"
+name                     : &name "Micheal Nayebare"
 description              : &description "personal description"
-url                      : https://iahimbis.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://mnayebare.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "iahimbis/iahimbis.github.io"
+repository               : "mnayebre/mnayebare.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -40,7 +40,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "Isaac_Ahimbisibwe@baylor.edu"
+    email                : "mnayebare@umich.edu"
   generatedFields:
     date:
       type               : "date"
@@ -82,14 +82,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ahimbisibwe Isaac"
-  avatar           : "AK9A3054-Enhanced-NR-1.jpg"
+  name             : "Micheal Nayebare"
+  avatar           : "Micheal-Nayebare.jpg"
   bio              : #"Your biography for the left-hand sidebar"
   location         : #"Location"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=VLajHRcAAAAJ&hl=en&oi=ao"
-  email            : "Isaac_Ahimbisibwe@baylor.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=xXlZhPAAAAAJ&hl=en"
+  email            : "mnayebare@umich.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -98,7 +98,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "iahimbis"
+  github           : "mnayebare"
   google_plus      :
   keybase          :
   instagram        :
@@ -112,7 +112,7 @@ author:
   steam            :
   tumblr           :
   twitter          : 
-  bluesky          :  "isaacahimbisibwe"
+  bluesky          :  #"isaacahimbisibwe"
   vine             :
   weibo            :
   xing             :
