@@ -83,7 +83,7 @@ analytics:
 # Site Author
 author:
   name             : "Micheal Nayebare"
-  avatar           : "Micheal-Nayebare.jpg"
+  avatar           : "micheal-bio-picture.jpg"
   bio              : #"Your biography for the left-hand sidebar"
   location         : #"Location"
   employer         :
@@ -112,7 +112,7 @@ author:
   steam            :
   tumblr           :
   twitter          : 
-  bluesky          :  #"isaacahimbisibwe"
+  bluesky          :  #git"isaacahimbisibwe"
   vine             :
   weibo            :
   xing             :
