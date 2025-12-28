@@ -111,8 +111,6 @@ function toggleAbstract(id) {
 Artificial Intelligence (AI) can be a threat to creative arts and design, taking data and images without permission or compensation. But with AI becoming a global portal for human knowledge access, anyone resisting inclusion in its data inputs will become invisible to its outputs. This is the AI double bind, in which the threat of exclusion forces us to give up any claims of ownership to our creative endeavors. To address such problems, this project develops an experimental platform designed to return value to those who create it, using a case study on African arts and design. If successful, it will allow African creatives to work with AI instead of against it, creating new opportunities for funding, gaining wider dissemination of their work, and creating a database for machine learning that results in more inclusive knowledge of African arts and design for AI outputs.
 </div>
 
----
-
 ## Ubuntu AI: Machine Learning for Regenerative Design Ecologies
 Eglash, Ron, and others, 'Ubuntu AI: Machine Learning for Regenerative Design Ecologies' (21 May 2025), in Philipp Hacker (ed.), Oxford Intersections: AI in Society (Oxford, online edn, Oxford Academic, 20 Mar. 2025 - ), https://doi.org/10.1093/9780198945215.003.0138
 
