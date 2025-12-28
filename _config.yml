@@ -40,7 +40,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "mnayebare@umich.edu"
+    email                : "mnayebar@umich.edu"
   generatedFields:
     date:
       type               : "date"
@@ -59,7 +59,7 @@ yandex_site_verification :
 twitter:
   username               : 
 bluesky:
- username                : #"@isaacahimbisibwe"
+ username                : #"@michealnayebare"
 facebook:
   username               :
   app_id                 :
@@ -89,7 +89,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=xXlZhPAAAAAJ&hl=en"
-  email            : "mnayebare@umich.edu"
+  email            : "mnayebar@umich.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -112,7 +112,7 @@ author:
   steam            :
   tumblr           :
   twitter          : 
-  bluesky          :  #"isaacahimbisibwe"
+  bluesky          :  #"michealnayebare"
   vine             :
   weibo            :
   xing             :
