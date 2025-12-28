@@ -10,17 +10,15 @@ redirect_from:
 
 
 
-I am an Assistant Professor in the [Economics Department](https://hankamer.baylor.edu/economics) at Baylor University. 
-
-I am an applied microeconomist researching issues related to development economics, education access in Sub-Saharan Africa, and higher education peer effects. I received my PhD from [UC Davis ARE](https://are.ucdavis.edu/phd/) and BS (with Honors) in Statistics from the [School of Statistics and Planning](https://bams.mak.ac.ug/school-of-statistics-and-planning/) at  Makerere University.
+Micheal Nayeare received his BSc in Computing and Business and his MS in Information Technology at Carnegie Mellon University. He is currently a doctoral candidate at the School of Information, University of Michigan. His research focuses on bridging the gap between the social effects we want to achieve with different algorithms and computational approaches. Specifically, he looks into the  application of community-centric AI/ML to enhance worker ownership, democratize technosocial systems, and support environmental sustainable production.
 
 
 
 
 **Interests**:
-1. Development Economics 
-2. Economics of Education 
-3. Labor Economics 
+1. Human-Centered AI 
+2. Resilient AI Sociotechnical Systems
+3. Community-Based Computing
 
 
 
