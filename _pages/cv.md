@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Please find my CV here [CV](/files/Ahimbisibwe_Isaac_Resume.pdf)
+Please find my CV here [CV](/files/Micheal_Nayebare_Resume.pdf)

@@ -6,11 +6,11 @@ main:
   # - title: "Test html"
   #   url: /html/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  # - title: "Teaching"
+  #   url: /teaching/    
     
-  - title: "Service-Mentorship"
-    url: /service/
+  # - title: "Service-Mentorship"
+  #   url: /service/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
