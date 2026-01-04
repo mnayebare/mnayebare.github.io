@@ -8,5 +8,5 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-Please find my CV here [CV](/files/Micheal_Nayebare_Resume.pdf)
+CV
+Download CV [PDF] (/files/Micheal_Nayebare_Resume.pdf)
