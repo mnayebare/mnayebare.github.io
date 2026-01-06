@@ -8,5 +8,5 @@ redirect_from:
 ---
 
 {% include base_path %}
-CV \
+
 Download CV [PDF](/files/Micheal_Nayebare_Resume.pdf)
