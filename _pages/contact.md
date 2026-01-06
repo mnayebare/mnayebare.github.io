@@ -15,8 +15,7 @@ mnayebar [at] umich [dot] edu
 OFFICE\
 Micheal Nayebare\
 University of Michigan School of Information\
-University of Michigan\
-2200 Hayward St, Ann Arbor, MI 48109\
+2200 Hayward St, Ann Arbor, MI 48109
 
 
 
